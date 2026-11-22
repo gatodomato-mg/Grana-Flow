@@ -1,0 +1,3 @@
+estado\decisoes.md:30: **Tags:** #granaflow
+estado\projetos.md:15: | #granaflow | app Rust (egui + SQLite) de finanAas pessoais para desktop, local-first, sem nuvem. | consolidar entrega, testar release e distribuir | 2026-11-08 |
+sessoes\2026-11-08.md:40: **Tags:** #granaflow
